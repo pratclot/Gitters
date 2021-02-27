@@ -1,0 +1,8 @@
+rootProject.name = "Gitters"
+include ':app'
+include ':service'
+include ':di'
+include ':core'
+include ':domain'
+include ':repo'
+include ':utils'
